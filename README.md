@@ -1,8 +1,10 @@
 # MIDE - mise development environment
 
-Basically a docker buildtag for mise (formerly rtx) stuff.
+Mise is a Rust-version of asdf that is more user-friendly. It automatically installs plugins that are needed.
 
-Based on OCDE. Mise is a Rust-version of asdf that is more user-friendly. It automatically installs plugins needed.
+MIDE is a docker image that includes mise and additional stuff for building your local development environment.
+
+Based on OCDE.
 
 ## Prerequisite
 
