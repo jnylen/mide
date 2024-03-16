@@ -1,0 +1,2 @@
+mise install
+mise reshim
